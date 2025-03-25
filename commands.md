@@ -76,6 +76,6 @@
   
   `clear`
 
-<!-- - **View command history**:
+**View command history**:
   
-  `history` -->
+  `history`
